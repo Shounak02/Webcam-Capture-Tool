@@ -2,14 +2,14 @@
 ## A simple web application that allows users to capture images using their webcam, with real-time video feed display and image download functionality.
 
 ### Technologies Used
-## Frontend: HTML, CSS, JavaScript
-## Web APIs: MediaDevices API (for camera access), getUserMedia (for video capture)
-## Storage: LocalStorage (for client-side data)
+Frontend : HTML, CSS, JavaScript
+Web APIs: MediaDevices API (for camera access), getUserMedia (for video capture)
+Storage: LocalStorage (for client-side data)
 ## Features
 Real-time Video Feed: Displays live video from the user's webcam.
-## Image Capture: Allows users to take snapshots from the video feed.
-## Download Functionality: Enables users to download captured images.
-## Local Storage: Stores captured images on the client-side.
+ Image Capture: Allows users to take snapshots from the video feed.
+ Download Functionality: Enables users to download captured images.
+ Local Storage: Stores captured images on the client-side.
 ### How to Use
 Clone the Repository
 
