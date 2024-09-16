@@ -15,7 +15,7 @@ Clone the Repository
 
 bash
 Copy code
-git clone https://github.com/your-username/webcam-capture-tool.git
+git clone https://github.com/shounak02/webcam-capture-tool.git
 Navigate to the Project Directory
 
 bash
